@@ -65,10 +65,10 @@
           <mxGeometry x="430" y="587" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="PA7_LY9AWOuKovDTi-2T-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;是否常规&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="687.5" y="660" width="93" height="92" as="geometry" />
+          <mxGeometry x="710" y="660" width="93" height="92" as="geometry" />
         </mxCell>
         <mxCell id="PA7_LY9AWOuKovDTi-2T-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;和解&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="862.5" y="707" width="93" height="93" as="geometry" />
+          <mxGeometry x="885" y="707" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="PA7_LY9AWOuKovDTi-2T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PA7_LY9AWOuKovDTi-2T-18" target="PA7_LY9AWOuKovDTi-2T-19">
           <mxGeometry relative="1" as="geometry" />
