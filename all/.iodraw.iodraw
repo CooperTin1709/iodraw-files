@@ -44,6 +44,24 @@
         <mxCell id="PA7_LY9AWOuKovDTi-2T-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;和解&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="760" y="734" width="93" height="93" as="geometry" />
         </mxCell>
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281.5" y="90" width="87" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="100" width="87" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="110" width="87" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="120" width="87" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="87" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="80" width="87" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
