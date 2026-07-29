@@ -25,8 +25,8 @@
         <mxCell id="PA7_LY9AWOuKovDTi-2T-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;是否常规&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="680" width="93" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="PA7_LY9AWOuKovDTi-2T-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;调解&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="740" y="730" width="93" height="93" as="geometry" />
+        <mxCell id="PA7_LY9AWOuKovDTi-2T-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;和解&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="734" width="93" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
