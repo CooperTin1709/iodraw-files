@@ -62,9 +62,6 @@
         <mxCell id="PA7_LY9AWOuKovDTi-2T-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="80" width="87" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="PA7_LY9AWOuKovDTi-2T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PA7_LY9AWOuKovDTi-2T-6" target="PA7_LY9AWOuKovDTi-2T-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
